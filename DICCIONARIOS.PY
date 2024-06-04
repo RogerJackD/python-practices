@@ -62,7 +62,7 @@ for i in range(len(matriz[0])): #range de (0-3)
         fila_transpuesta.append(fila[i])
     transpuesta.append(fila_transpuesta)
 
-print("Matriz transpuesta:", transpuesta)
+print("Matriz transpuestaa:", transpuesta)
 
 
 
